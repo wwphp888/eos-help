@@ -1,0 +1,1 @@
+nodeos --config-dir /mnt/eos/config --data-dir /mnt/eos/data --snapshot /mnt/eos/data/snapshots/snapshot-142140669.bin >/mnt/eos/nodeos.log 2>&1 &
